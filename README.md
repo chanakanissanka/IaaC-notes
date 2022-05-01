@@ -21,3 +21,7 @@ resource "some_resource" "x" {
 ### This is the sample of heading 3
 
 	`terraform fmt`
+
+    [Google](https://www.google.com)
+
+    ![alt text](image.png)
