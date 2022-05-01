@@ -22,6 +22,7 @@ resource "some_resource" "x" {
 
 	`terraform fmt`
 
-    [Google](https://www.google.com)
 
-    ![alt text](image.png)
+
+[Google](https://www.google.com)
+![alt text](image.png)
