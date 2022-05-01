@@ -15,3 +15,9 @@ resource "some_resource" "x" {
     name = var.user_info.name
     somethingsomething = var.resource_sensitive.address
 }
+
+
+
+### This is the sample of heading 3
+
+	`terraform fmt`
